@@ -6,23 +6,23 @@ Este projeto faz parte do meu aprendizado no curso de Administração de Banco d
 
 ---
 
-## * 🌟 **O que foi feito**
+ * 🌟 O que foi feito  🌟
 Criei uma tabela de livros que se conecta com outras tabelas, como editoras, estoque, tipo de livro e mais. Tudo isso está sendo feito para entender melhor como montar e organizar um banco de dados eficiente e funcional. 🧑‍💻✨
 
 ---
 
-## * 📊 **Fluxograma**
+ * 📊 Fluxograma 📊
 ![Image](https://github.com/user-attachments/assets/0f9972c6-be3d-4860-a282-58c35864cb45)
 
 --- 
 
-*📑 **Tabela**
+* 📑 Tabela 📑
 
 ![Image](https://github.com/user-attachments/assets/fb55064d-19cf-42d7-8603-c039ed4e83e1)
 
 --- 
 
-*⏳ **O que vem por aí**
+* ⏳ O que vem por aí ⏳
 
 Em breve, vou adicionar o código SQL completo para a criação das tabelas e a manipulação dos dados. 🔜
 
